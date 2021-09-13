@@ -1,0 +1,15 @@
+body {
+  font-family: "Heebo", sans-serif;
+  color: #fff;
+  background-color: #494e5f;
+}
+
+code {
+  background-color: whitesmoke;
+  color: black;
+}
+
+section,
+header {
+  margin: 50px;
+}
